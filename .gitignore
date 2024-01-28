@@ -24,7 +24,6 @@ package-lock.json
 
 # Ignore JetBrains IDE settings
 .idea/
-package-lock.json
 
 # Ignore test coverage reports
 coverage/
