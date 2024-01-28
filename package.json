@@ -1,6 +1,6 @@
 {
   "name": "syedhasni_cli_calculator",
-  "version": "1.1.1",
+  "version": "1.0.0",
   "description": "",
   "main": "main.js",
   "type": "module",
@@ -8,11 +8,21 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+ "keywords": [
+  "calculator",
+  "CLI",
+  "command-line",
+  "math",
+  "inquirer",
+  "node",
+  "interactive",
+  "syedhasni",
+  "syedalinaqihasni"
+],
   "author": "syedalinaqihasni",
   "license": "ISC",
   "dependencies": {
-    "inquirer": "^9.1.4",
+    "inquirer": "^9.1.4"
   },
   "devDependencies": {
     "@types/inquirer": "^9.0.3"
